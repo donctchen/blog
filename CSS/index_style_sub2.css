@@ -1,0 +1,10 @@
+.footer{
+    border: 0px;
+    background: #ffffff;
+    grid-area: ft;
+    text-align: center;
+}    
+
+button{
+    font-size: 20px;
+}

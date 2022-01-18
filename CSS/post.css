@@ -1,0 +1,39 @@
+/* use large font size for mobile viewing */
+@media only screen {
+    p{
+        font-size: 22px;
+    }
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+  }
+
+.box1{
+    width: 70%;    
+    background-color: rgb(239, 239, 233);
+    padding: 5px;
+}
+.box2{
+    width: 70%;    
+    padding: 5px;
+  
+}
+.box3{
+    width: 70%;    
+    padding: 5px;
+    background-color: rgb(228, 247, 255);
+}
+
+.box4{
+    width: 70%;    
+    padding: 5px;   
+    align-items: center;
+}
+button{
+    font-size: 28px;
+}

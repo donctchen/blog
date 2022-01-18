@@ -1,0 +1,17 @@
+header{
+    border: 1px solid #f9f9f9;
+    background: #96b9df;
+    grid-area: hd;
+    text-align: center;
+}
+.sidebar{
+    border: 0px;
+    background:#f7f7f7;
+    grid-area: sd;
+}
+.content{
+    border: 1px;
+    background: #ffffff;
+    grid-area: main;
+    text-align: left;
+}
